@@ -1,0 +1,17 @@
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.exe.config
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.exe
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.pdb
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\obj\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.csproj.AssemblyReference.cache
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\obj\Debug\From_GRID_to_ECxel_WinFormsApp_dotnetframework.Form1.resources
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\obj\Debug\From_GRID_to_ECxel_WinFormsApp_dotnetframework.Properties.Resources.resources
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\obj\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.csproj.GenerateResource.cache
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\obj\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.csproj.CoreCompileInputs.cache
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\obj\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.exe
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\obj\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.pdb
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\EPPlus.dll
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\EPPlus.Interfaces.dll
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\EPPlus.System.Drawing.dll
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\EPPlus.xml
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\C#\From_GRID_to-ECxel_WinFormsApp_dotnetframework\obj\Debug\From_GRID_to-ECxel_WinFormsApp_dotnetframework.csproj.CopyComplete
